@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner{
+    background-image: url(../img/pexels-photo-3914753.jpeg);
+    background-size: cover;
+    background-position: 50%, 77.6%;
+    padding: 5%;
+    viewport-fit: 100%;
+}
+
+/* #pics{
+    background-image: url(../img/photo-1578751333210-30e05d429f8d.jpg);
+    background-size: cover;
+} */
